@@ -1,0 +1,6 @@
+hi:=hEllo+25; (*addition *)
+name := "Ahmet";
+hello++ ;(*increment*) 
+int i := 0 
+(*This is not a comment      ++ 
+name := "Programming in C  
